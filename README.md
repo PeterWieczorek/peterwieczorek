@@ -1,1 +1,2 @@
-1. Complete ruby on rails developer
+1. Complete ruby on rails developer by PW
+# peterwieczorek
